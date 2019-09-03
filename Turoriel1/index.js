@@ -11,4 +11,4 @@ client.on('message', msg => { // Evénement qui s'execute lors de la récéption
     }
 });
 
-client.login('NjE4MzY5NjEzMjM0OTYyNDQy.XW4uMg.mjvf0y1hAYaNDldHe1QWu6Ww4ks'); //connection du bot
+client.login('token'); //connection du bot
